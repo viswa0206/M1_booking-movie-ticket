@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 //#include"moviedetails.c"
-#include"function.h"
+#include"inc/function.h"
 #include<string.h>
-#include "unity.h"
+#include "unity/unity.h"
 
 int main()
 {
